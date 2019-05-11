@@ -1,0 +1,159 @@
+body{
+    background-image: url("bg_light.png");
+    
+
+}
+
+h1{
+    font-family: 'anirm___';
+    color: black;
+}
+/*hover*/
+
+.orange {
+    color: orange;
+    font-style: normal;
+    font-family: 'partybusiness';
+}
+
+
+/*footer*/
+
+footer .container {
+    background-color: #ff5f01;
+    border: 1px solid #000000;
+
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+    font-family: 'anirm___';
+}
+
+/* police titre */
+@font-face {
+    font-family: 'anirm___';
+    src: url('anirm___.ttf');
+}
+
+/* police texte */
+
+@font-face {
+    font-family: 'partybusiness';
+    src: url('partybusiness.ttf');
+}
+
+/*symbole*/
+@font-face {
+    font-family: 'tngani';
+    src: url('tngani.ttf');
+}
+
+
+/*navbar*/
+.navbar a {
+    font-family: 'anirm___';
+    color: white;
+    font-size: 90%;
+}
+
+.navbar img {
+    width: 100%;
+}
+
+#navbarColor03 {
+    padding-left: 15%;
+}
+
+
+.circle {
+    height: 80px;
+    width: 80px;
+    border-radius: 66%;
+    box-shadow: inset 5px 5px 3px #ce4800, 5px 5px 3px #ce4800;
+    border: 5.3333333333px solid #ff7c35;
+    background-color: transparent;
+    display: inline-block;
+}
+
+
+.bigRing {
+    height: 300px;
+    width: 300px;
+    border-radius: 66%;
+    box-shadow: inset 5px 5px 3px #999900, 5px 5px 3px #999900;
+    border: 20px solid yellow;
+    background-color: transparent;
+    display: inline-block;
+}
+
+.loopRings1 {
+    height: 60px;
+    width: 60px;
+    border-radius: 66%;
+    box-shadow: inset 5px 5px 3px black, 5px 5px 3px black;
+    border: 4px solid black;
+    background-color: transparent;
+    display: inline-block;
+    margin-left: -33px;
+}
+
+.loopRings2 {
+    height: 75px;
+    width: 75px;
+    border-radius: 66%;
+    box-shadow: inset 5px 5px 3px black, 5px 5px 3px black;
+    border: 5px solid black;
+    background-color: transparent;
+    display: inline-block;
+    margin-left: -35px;
+}
+
+.loopRings3 {
+    height: 90px;
+    width: 90px;
+    border-radius: 66%;
+    box-shadow: inset 5px 5px 3px black, 5px 5px 3px black;
+    border: 6px solid black;
+    background-color: transparent;
+    display: inline-block;
+    margin-left: -37px;
+}
+
+.loopRings4 {
+    height: 105px;
+    width: 105px;
+    border-radius: 66%;
+    box-shadow: inset 5px 5px 3px black, 5px 5px 3px black;
+    border: 7px solid black;
+    background-color: transparent;
+    display: inline-block;
+    margin-left: -39px;
+}
+
+.loopRings5 {
+    height: 120px;
+    width: 120px;
+    border-radius: 66%;
+    box-shadow: inset 5px 5px 3px black, 5px 5px 3px black;
+    border: 8px solid black;
+    background-color: transparent;
+    display: inline-block;
+    margin-left: -41px;
+}
+
+.loopRings6 {
+    height: 135px;
+    width: 135px;
+    border-radius: 66%;
+    box-shadow: inset 5px 5px 3px black, 5px 5px 3px black;
+    border: 9px solid black;
+    background-color: transparent;
+    display: inline-block;
+    margin-left: -43px;
+}
+
+.loops {
+    margin-left: 33px;
+}
